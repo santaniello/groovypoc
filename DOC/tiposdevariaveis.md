@@ -41,13 +41,3 @@ O print vai ser:
 ```groovy 
 java.lang.Integer
 ```
-
-
-
-
-
-
-
-
-
-Return 

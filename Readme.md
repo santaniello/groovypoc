@@ -4,6 +4,8 @@
 - [Compilar e executar um script Groovy](/DOC/compilareexecutar.md)
 - [Scripts](/DOC/scripts.md)
 - [Orientação a Objetos](/DOC/orientacaoaobjetos.md)
+- [Tipos de Variaveis](/DOC/tiposdevariaveis.md)
+- [Estruturas de Controle](/DOC/estruturasdecontrole.md)
 
 Links Úteis:
 
