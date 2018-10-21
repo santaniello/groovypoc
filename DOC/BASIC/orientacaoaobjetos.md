@@ -15,7 +15,7 @@ Algumas diferenças que valem a pena ser ressaltadas:
 - Os Getters And Setters são gerados automaticamente;
 - A anotação @ToString em cima da classe gera o método ToString;
 - Atributos podem ser def (podem ser de qualquer tipo) e métodos podem retornar def (retornar qualquer coisa). Isso representa a tipagem dinâmica do groovy;
-- Uma classe não precisa possuir o mesmo nome do arquivo ao contrário de Java. Exemplo: [[Script que contém uma classe](/twitter.groovy) 
+- Uma classe não precisa possuir o mesmo nome do arquivo ao contrário de Java. Exemplo: [Script que contém uma classe](/twitter.groovy) 
 
 
  
