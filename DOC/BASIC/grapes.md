@@ -14,3 +14,9 @@ WordUtils wordUtils = new WordUtils()
 println wordUtils.initials(name)
 
 ```
+
+Links Úteis:
+
+[Dependency management with Grape](http://docs.groovy-lang.org/latest/html/documentation/grape.html)
+
+
