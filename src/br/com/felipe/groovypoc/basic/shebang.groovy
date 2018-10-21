@@ -1,8 +1,9 @@
 #!/usr/bin/env groovy
+package br.com.felipe.groovypoc.basic
 
 /**
-* Podemos fazer com que um script groovy seja executado com um script linux (shebang que seria #!)
-* - Colocamos o shebang #!/usr/bin/env groovy
+* Podemos fazer com que um script groovy seja executado com um script linux (br.com.felipe.groovypoc.basic.shebang que seria #!)
+* - Colocamos o br.com.felipe.groovypoc.basic.shebang #!/usr/bin/env groovy
 * - Damos permissão de execução chmod +x script.groovy
 * - Executamos ./script.groovy
 *

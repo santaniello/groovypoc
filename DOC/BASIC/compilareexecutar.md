@@ -20,7 +20,7 @@ com o comando groovc***
 [O que é Shebang ?](https://bash.cyberciti.biz/guide/Shebang)
 
  Para fazer com que um script groovy seja executado como um script linux devemos seguir os seguintes passos: 
- - Colocamos o shebang #!/usr/bin/env groovy
+ - Colocamos o br.com.felipe.groovypoc.basic.shebang #!/usr/bin/env groovy
  - Damos permissão de execução chmod +x script.groovy
  - Executamos ./script.groovy
 

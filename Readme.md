@@ -1,11 +1,15 @@
 # Groovy Poc 
 
-- [Instalação](/DOC/instalacao.md)
-- [Compilar e executar um script Groovy](/DOC/compilareexecutar.md)
-- [Scripts](/DOC/scripts.md)
-- [Orientação a Objetos](/DOC/orientacaoaobjetos.md)
-- [Tipos de Variaveis](/DOC/tiposdevariaveis.md)
-- [Estruturas de Controle](/DOC/estruturasdecontrole.md)
+### Básico:
+
+- [Instalação](/DOC/BASIC/instalacao.md)
+- [Compilar e executar um script Groovy](/DOC/BASIC/compilareexecutar.md)
+- [Scripts](/DOC/BASIC/scripts.md)
+- [Orientação a Objetos](/DOC/BASIC/orientacaoaobjetos.md)
+- [Tipos de Variaveis](/DOC/BASIC/tiposdevariaveis.md)
+- [Estruturas de Controle](/DOC/BASIC/estruturasdecontrole.md)
+- [Operadores](/DOC/BASIC/operadores.md)
+- [Grapes](/DOC/BASIC/grapes.md)
 
 Links Úteis:
 

@@ -1,3 +1,5 @@
+package br.com.felipe.groovypoc.basic
+
 import br.com.felipe.groovypoc.classes.User
 
 /* O def em um método ou variavel indica que ele pode ser qualquer coisa e podemos mudar o
