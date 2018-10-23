@@ -11,6 +11,11 @@
 - [Operadores](/DOC/BASIC/operadores.md)
 - [Grapes](/DOC/BASIC/grapes.md)
 
+### Collections:
+
+- [Ranges](/src/br/com/felipe/groovypoc/collections/ranges.groovy)
+- [List](/src/br/com/felipe/groovypoc/collections/list.groovy)
+
 Links Úteis:
 
 - [Tipagem Dinâmica (def)](http://grails.asia/groovy-def-declaration-examples)
