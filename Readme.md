@@ -15,6 +15,7 @@
 
 - [Ranges](/src/br/com/felipe/groovypoc/collections/ranges.groovy)
 - [List](/src/br/com/felipe/groovypoc/collections/list.groovy)
+- [Map](/src/br/com/felipe/groovypoc/collections/map.groovy)
 
 Links Úteis:
 
