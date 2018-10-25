@@ -17,6 +17,11 @@
 - [List](/src/br/com/felipe/groovypoc/collections/list.groovy)
 - [Map](/src/br/com/felipe/groovypoc/collections/map.groovy)
 
+### Closures
+
+- [Introdução a Closures](/src/br/com/felipe/groovypoc/closures/closures.groovy)
+- [Closures com parâmetros](/src/br/com/felipe/groovypoc/closures/closurescomparametros.groovy)
+
 Links Úteis:
 
 - [Tipagem Dinâmica (def)](http://grails.asia/groovy-def-declaration-examples)
