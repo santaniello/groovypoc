@@ -20,7 +20,9 @@
 ### Closures
 
 - [Introdução a Closures](/src/br/com/felipe/groovypoc/closures/closures.groovy)
-- [Closures com parâmetros](/src/br/com/felipe/groovypoc/closures/closurescomparametros.groovy)
+- [Closures com Parâmetros](/src/br/com/felipe/groovypoc/closures/closurescomparametros.groovy)
+- [Closures com Collections](/src/br/com/felipe/groovypoc/closures/closurescomcollections.groovy)
+- [Curry](/src/br/com/felipe/groovypoc/closures/curry.groovy)
 
 Links Úteis:
 
